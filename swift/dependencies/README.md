@@ -21,4 +21,4 @@ The Combine framework provides a declarative Swift API for processing values ove
 
 
 # Next
-[Description](/swift/description/)
+[Description](/swift/description/?id=classes)
