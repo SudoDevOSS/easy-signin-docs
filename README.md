@@ -17,7 +17,7 @@ The goal of this project is to apply ``` the clean architecture ``` on a module 
 ## Getting Started
 Start by reading docs for the language of your choice
 
-- [Swift Docs](/swift/dependencies/?id=requirements)
+- [Swift Docs](/swift/dependencies/?id=requirements) [Source Code](https://github.com/SudoDevOSS/easy-signin-ios)
 - Kotlin (coming soon)
 
 ## License
